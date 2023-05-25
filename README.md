@@ -1,5 +1,8 @@
 # Data-Driven Analysis and Performance Improvement Strategies for Google Merchandise Store
-This project is an exploratory data analysis (EDA) on the Google Analytics 360 dataset obtained from the Google Merchandise Store. The dataset, named 'google_analytics_sample,' is accessible through Google BigQuery. The objective of this project is to serve as Data Analysts for the Google Merchandise Store, utilizing SQL in a Python IDE to analyze Google Analytics data extracted from BigQuery.
+This repository contains the code and data for a data-driven analysis of the Google Merchandise Store. The analysis was conducted using exploratory data analysis (EDA) and data visualization techniques.
+
+## Objective
+The objective of this project is to serve as Data Analysts for the Google Merchandise Store, utilizing SQL in a Python IDE to analyze Google Analytics data extracted from BigQuery. The goal is to conduct an EDA on the dataset and use data visualization to gain insights into the performance of the store. The insights gained from the analysis will be used to develop performance improvement strategies for the store.
 
 ## Medium Article
 For a detailed explanation of the EDA and performance improvement strategies developed for the Google Merchandise Store, please refer to the following Medium article: [Data-Driven Analysis and Performance Improvement Strategies for Google Merchandise Store](https://)
